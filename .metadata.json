@@ -1,5 +1,8 @@
 [
   {
     "package": "fastreeR"
+  },
+  {
+    "package": "metabinR"
   }
 ]

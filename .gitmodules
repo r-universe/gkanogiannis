@@ -8,3 +8,8 @@
 	url = https://github.com/gkanogiannis/fastreer
 	shallow = true
 	registered = true
+[submodule "metabinR"]
+	path = metabinR
+	url = https://github.com/gkanogiannis/metabinr
+	shallow = true
+	registered = true
