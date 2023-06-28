@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "fastreeR"]
 	path = fastreeR
 	url = https://github.com/gkanogiannis/fastreer
-	shallow = true
-	registered = true
 [submodule "metabinR"]
 	path = metabinR
 	url = https://github.com/gkanogiannis/metabinr
-	shallow = true
-	registered = true
